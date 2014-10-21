@@ -1,10 +1,11 @@
 <?php
 // 检查cookie中是否有商品
 if (!isset($_COOKIE['id_num'])) {
+    // cookie中存储了几个id
     $id_num = 0;
 } else {
     $id_num = $_COOKIE['id_num'];
-    // ids[id][amount]
+    // ids[id][amount] id是个数组，存储着购物车中的商品id和数量
     $ids = $_COOKIE['id'];
 }
 
