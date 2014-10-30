@@ -61,8 +61,8 @@
                     <h4>主题</h4>
                     <input name="theme" class="form-control" type="text" required>
                     <h4>内容</h4>
-                    <textarea name="content" class="form-control" rows="5" required>
-                    </textarea>
+                    <!--textarea两个标签之间不要有空格或换行-->
+                    <textarea name="content" class="form-control" rows="5" required></textarea>
                         <button class="btn btn-lg btn-primary btn-block" type="submit">确认</button>
                     </form>
                 </div>
