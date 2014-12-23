@@ -1,0 +1,11 @@
+INSERT INTO `book_mall`.`book` (`price`, `amount`, `picture`) VALUES ('58', '100', '../img/1.jpg');
+INSERT INTO `book_mall`.`book` (`price`, `amount`, `picture`) VALUES ('48', '100', '../img/2.jpg');
+INSERT INTO `book_mall`.`book` (`price`, `amount`, `picture`) VALUES ('38', '100', '../img/3.jpg');
+INSERT INTO `book_mall`.`book` (`price`, `amount`, `picture`) VALUES ('88', '100', '../img/4.jpg');
+INSERT INTO `book_mall`.`book` (`price`, `amount`, `picture`) VALUES ('68', '100', '../img/5.jpg');
+INSERT INTO `book_mall`.`book` (`price`, `amount`, `picture`) VALUES ('51', '100', '../img/6.jpg');
+INSERT INTO `book_mall`.`book` (`price`, `amount`, `picture`) VALUES ('55', '100', '../img/7.jpg');
+INSERT INTO `book_mall`.`book` (`price`, `amount`, `picture`) VALUES ('56', '100', '../img/8.jpg');
+INSERT INTO `book_mall`.`book` (`price`, `amount`, `picture`) VALUES ('57', '100', '../img/9.jpg');
+INSERT INTO `book_mall`.`book` (`price`, `amount`, `picture`) VALUES ('68', '100', '../img/10.jpg');
+INSERT INTO `book_mall`.`book` (`price`, `amount`, `picture`) VALUES ('28', '100', '../img/11.jpg');
